@@ -8,8 +8,6 @@ Siga os passos abaixo para configurar e executar o projeto localmente:
 
 1. **Clonar o Repositório:**
 
-   git clone https://github.com/LuizCrema00/crud-chamado.git
-
 2. ### Requisitos
 
 - PHP 8.1 ou superior
